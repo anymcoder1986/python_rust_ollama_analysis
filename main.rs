@@ -1,5 +1,4 @@
 /*  Rust code Ollama API analysis
-    Partha Pratim Ray, parthapratimray1986@gmail.com
     30 June, 2025
 */
 
